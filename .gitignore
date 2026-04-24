@@ -1,0 +1,16 @@
+# Data files (too large / sensitive to commit)
+datathon-2026/data/*.csv
+datathon-2026/data/*.parquet
+datathon-2026/data/*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
